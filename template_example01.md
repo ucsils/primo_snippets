@@ -5,6 +5,14 @@ TODO: Write a brief description of the problem being solved by this code.  Or wh
 ## Examples
 - URL(s) to see this working in your site
 
+## Keywords
+Add a ***single line*** of keywords, ***separated by commas***. Use ***quotes*** for multi-word terms. 
+
+***Remove*** all other lines from this section before committing and pushing your file to the repository.
+
+**Example:**
+ranking, HathiTrust, ILL, "welcome screen", "nav bar", "advanced search"
+
 # Solution
 
 TODO: Write a brief description of the solution.  This could include:
