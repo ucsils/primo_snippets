@@ -6,6 +6,10 @@ This enables display of HathiTrust information in Primo VE.  Since [emergency ac
 - Search for [angeles ostrich farm](https://search.library.ucla.edu/discovery/search?query=any,contains,angeles%20ostrich%20farm&tab=LibraryCatalog&search_scope=MyInstitution&vid=01UCS_LAL:UCLA&offset=0) and see first result
 - [Permalink to example record](https://search.library.ucla.edu/permalink/01UCS_LAL/trta7g/alma9922445633606533)
 
+## Keywords
+
+HathiTrust, "public domain", "online access", AngularJS
+
 # Solution
 
 This Javascript calls HathiTrust APIs to check each record in Primo VE results, searching HathiTrust by OCLC number.  If a match is found, and if other criteria are satisfied (title is out of copyright, is available full-text via HathiTrust, and possibly is not a journal), information and a link to HathiTrust display in the search results and on the full record.
@@ -193,7 +197,7 @@ No Alma configuration required.  The code has a few options, described in the CA
 
 ## Testing
 
-Search for monographics published in the U.S. before 1926, which I think is the current public domain cutoff.  Not all will be available from HathiTrust, so search for titles in your catalog which you know are held by HT.
+Search for monographs published in the U.S. before 1926, which I think is the current public domain cutoff.  Not all will be available from HathiTrust, so search for titles in your catalog which you know are held by HT.
 
 ## Credits
 

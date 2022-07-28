@@ -1,6 +1,9 @@
 # Keyword Index
 
 ## --- A ---
+**AngularJS:**
+- [ucla/hathitrust.md](ucla/hathitrust.md)
+
 
 ## --- B ---
 
@@ -15,6 +18,9 @@
 ## --- G ---
 
 ## --- H ---
+**HathiTrust:**
+- [ucla/hathitrust.md](ucla/hathitrust.md)
+
 
 ## --- I ---
 
@@ -29,8 +35,14 @@
 ## --- N ---
 
 ## --- O ---
+**Online access:**
+- [ucla/hathitrust.md](ucla/hathitrust.md)
+
 
 ## --- P ---
+**Public domain:**
+- [ucla/hathitrust.md](ucla/hathitrust.md)
+
 
 ## --- Q ---
 
