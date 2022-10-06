@@ -7,7 +7,7 @@ https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/ifm3ln/alma9910248
 https://ucsc.primo.exlibrisgroup.com/permalink/01CDL_SCR_INST/ifm3ln/alma991024973021404876
 
 ## Keywords
-"Purchase request", DDA, "demand driven acquisition", login, "sign in", GES, "General electronic service", "Display logic rule" 
+"purchase request", DDA, "demand driven acquisition", login, "sign in" 
 
 # Solution
 

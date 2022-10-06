@@ -8,7 +8,7 @@ ILL, "interlibrary loan", renewals, "loan renewals"
 
 # Solution
 
-The code responds to the prmLoansAfter element on the Loans summary page. It checks each prm-loan to see if it is alma renewable, and if not it adds a button to the actions available for the loan. The button leads to an external form that is able to accept URL parameters to pre-fill the form elements with metadata from the loan. 
+Uses the prmLoansAfter component on the Loans summary page. It checks each prm-loan to see if it is alma renewable, and if not it adds a button to the actions available for the loan. The button leads to an external form that is able to accept URL parameters to pre-fill the form elements with metadata from the loan. 
 
 
 ## CSS

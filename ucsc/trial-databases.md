@@ -3,7 +3,7 @@
 Identifies trial journals and databases and adds an icon next to their title.
 
 ## Keywords
-"Trial database", journals, trial
+"trial database", "trial journal", journals, trial
 
 # Solution
 

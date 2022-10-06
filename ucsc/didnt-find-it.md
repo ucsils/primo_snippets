@@ -131,14 +131,14 @@ app.controller('SearchResultListAfterController', ['$scope', '$rootScope', funct
 
   // Add Libchat script to the document header.
   var libchat = document.createElement("script");
-  libchat.src = "https://v2.libanswers.com/load_chat.php?hash=d01223b2d5b712cc1cf9015fef8fa534";
+  libchat.src = "https://v2.libanswers.com/load_chat.php?hash=yourhashgoeshere";
   document.head.appendChild(libchat);
 }]);
 
 app.component('prmSearchResultListAfter', {
     bindings: { parentCtrl: '<' },
     controller: 'SearchResultListAfterController',
-    templateUrl: 'custom/01CDL_SCR_INST-USCS/html/prmSearchResultListAfter.html',
+    templateUrl: 'custom/your-view-code-here/html/prmSearchResultListAfter.html',
 });
 ```
 
