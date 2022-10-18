@@ -1,4 +1,3 @@
-@@ -0,0 +1,51 @@
 # Overview
 
 This Primo Display normalization rule forces Primo to respect the first indicator in the 773 field. The small change can be applied to other display fields that Ex Libris forgot to account for.
