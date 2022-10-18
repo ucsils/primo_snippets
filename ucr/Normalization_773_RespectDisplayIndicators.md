@@ -46,11 +46,11 @@ In Alma Configuration, navigate to: Discovery > Display Configuration > Manage D
 
 - Add Field 
 - Add Display Field
-- Select Field to edit: Is Part Of
+- Select Field to edit
 - Edit MARC21 normalization rule for display
 - Delete the default code 
   - (you can always get it back by selecting "restore default")
-- Past the new normalization code
+- Paste the new normalization code
 - Save
 - Click Back
 - Select Apply Rules 
