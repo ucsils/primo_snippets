@@ -34,7 +34,7 @@ Out of the box, Primo displays all of the 6xx fields regardless of indicators or
 - MMSID: 991004013069704706  
 - OCLC: 01735454
 
-# Solution
+## Solution
 >
 >*(Does not apply to MESH headings as these are in a different out-of-the-box display heading)*  
 

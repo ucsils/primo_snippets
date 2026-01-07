@@ -10,7 +10,7 @@ This Primo Display normalization rule forces Primo to respect the first indicato
 - Primo Display: Is Part Of Dark Horse Comics Collection at Portland State University.
 - MARC Bibliographic Standards: <https://www.loc.gov/marc/bibliographic/bd773.html>
 
-# Solution
+## Solution
 
 The solution is to define a display field and modify the normalization rule so that it will only generate a display if the record has a 773 field, AND the first indicator is 0.
 

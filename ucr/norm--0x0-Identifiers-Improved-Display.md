@@ -10,7 +10,7 @@ UCR suppressed the rules that included the 776, and reordered the rules so that 
 - <https://search.library.ucr.edu/permalink/01CDL_RIV_INST/1a599u0/alma991008284129704706>
 - <https://search.library.ucr.edu/permalink/01CDL_RIV_INST/14qc2ti/alma991000041849704706>
 
-# Solution
+## Solution
 
 The default rule creates displays in this order:
 
