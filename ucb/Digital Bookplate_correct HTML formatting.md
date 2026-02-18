@@ -1,6 +1,6 @@
 ## Overview
 
-This normalization rule revises information in local note 599 $a to ensure alt text for digital bookplates renders correctly in production. 
+This normalization rule revises existing information in local note 599 $a to ensure alt text for digital bookplates renders correctly in production. 
 
 Digital bookplates were previously added to UCB item records through a separate normalizaton process. The normalization rule embeds HTML in the local note field so that an image appears in the full record details.
 
@@ -42,4 +42,10 @@ then
 
 replaceContents "599.a.*" with "<span class=\"bookplate\"><b>Digital bookplate: </b>From the Alfred Hitchcock Literature and Arts Fund<br><a href=\"https://berkeley.primo.exlibrisgroup.com/discovery/search?query=any,contains,From%20the%20Alfred%20Hitchcock%20Literature%20and%20Arts%20Fund,AND&tab=LibraryCatalog&search_scope=MyInst_and_CI&vid=01UCS_BER:UCB&mode=advanced&offset=0 target=_blank\"><img src=\"https://digitalassets.lib.berkeley.edu/bookplates/bookplate_hitchcock_literature_fund.jpg\" height=\"230\" width=\"177\" alt=\"From the Alfred Hitchcock Literature and Arts Fund\"></a></span>" if (exists "599.a.*From the Alfred Hitchcock Literature and Arts Fund*")
 
+
 end
+```
+
+## Documentation
+- [Working with Normalization Rules](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Metadata_Management/016Working_with_Rules/020Working_with_Normalization_Rules)
+- [Working with Normalization Processes](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/Metadata_Management/210Metadata_Management_Configuration/Configuring_Cataloging#Working_with_Normalization_Processes)
